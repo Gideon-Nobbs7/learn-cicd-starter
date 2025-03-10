@@ -24,4 +24,4 @@ You do *not* need to set up a database or any interactivity on the webpage yet. 
 
 Giiid's version of Boot.dev's Notely app.
 
-New test for workflow
+New test for workflows
